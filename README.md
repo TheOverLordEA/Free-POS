@@ -1,4 +1,6 @@
 # Free-POS
+<h1>Update</h1>
+The project is currently on hold and updates will be coming soon with a new UI and docker container.
 <h2>Overview</h2>
 Free-POS is an open-source Point of Sale (POS) system designed to cater specifically to mom and pop shops, providing them with a reliable, easy-to-use, and cost-effective solution for managing their sales and inventory. This project aims to empower small businesses by offering a feature-rich POS system without any licensing fees, ensuring affordability and accessibility for all.
 
